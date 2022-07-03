@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+.s1{
+    background:linear-gradient(white,pink);
+}
+.s2{
+    background: linear-gradient(white,black);
+    transition-property: background-color;
+    transition-duration: 4s;
+}
+.s2:hover{
+    background:linear-gradient(grey,black);
+}
+.info:hover{
+    width: 100%;
+}
+.h1:hover{
+    background:linear-gradient(grey,black);
+}
+.h2:hover{
+    background:linear-gradient(grey,black);
+}
+.h3:hover{
+    background:linear-gradient(grey,black);
+}
